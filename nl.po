@@ -4186,7 +4186,7 @@ msgstr "Doorstuuradres: Bevat alle doorstuuradressen."
 
 #: src/js/pages/reseller/ip-config.vue:34
 msgid "Free"
-msgstr "Gratis"
+msgstr "Beschikbaar"
 
 #: src/js/pages/user/ssl/index.vue:144
 msgid "Free & automatic certificate from Let's Encrypt"
@@ -4198,7 +4198,7 @@ msgstr "Beschikbaar geheugen"
 
 #: src/js/pages/user/system-info/_tables/memory-info-table.vue:43
 msgid "Free Swap Memory"
-msgstr "Gratis wisselgeheugen"
+msgstr "Beschikbaar wisselgeheugen"
 
 #: src/js/pages/admin/mail-queue/index.vue:23
 #: src/js/pages/admin/mail-queue/index.vue:40
